@@ -4,8 +4,8 @@
 Welcome to this SQL project that demonstrates the power and flexibility of **window functions** in Oracle SQL. In this walkthrough, we explore real-world business data scenarios by analyzing a fictional company's staff records.
 
 **Project Contributors:**
-- **Mutsinzi Brian Heritier**
-- **Akize Israel**
+- **Mutsinzi Brian Heritier 26522**
+- **Akize Israel 25883**
 - **Lecture: Maniraguha Eric**
 
 ---
